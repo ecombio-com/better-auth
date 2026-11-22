@@ -37,6 +37,7 @@
     "typecheck:consumers": "turbo run typecheck:consumer"
   },
   "devDependencies": {
+    "wrangler": "latest",
     "@arethetypeswrong/cli": "^0.18.3",
     "@biomejs/biome": "2.5.15",
     "@changesets/changelog-github": "^0.7.0",
